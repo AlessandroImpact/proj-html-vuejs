@@ -24,4 +24,6 @@ export default {
 
 <style lang="scss">
 
+@import './components/partial/style/general.scss';
+
 </style>
