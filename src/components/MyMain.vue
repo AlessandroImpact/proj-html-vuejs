@@ -1,6 +1,7 @@
 <template>
 <section>
     <JumbotronTop/>
+    <FeatureSection/>
     <AskAnExpert/>
 </section>
   
@@ -9,12 +10,14 @@
 <script>
 import AskAnExpert from './partial/AskAnExpert.vue'
 import JumbotronTop from './partial/JumbotronTop.vue'
+import FeatureSection from './partial/FeatureSection.vue'
 
 export default {
     name:'MyMain',
     components: {
         AskAnExpert,
-        JumbotronTop
+        JumbotronTop,
+        FeatureSection
     }
 
 }

@@ -19,9 +19,7 @@
 <script>
 export default {
     name: 'AskAnExpert',
-    components: {
-
-    }
+    
 
 }
 </script>
