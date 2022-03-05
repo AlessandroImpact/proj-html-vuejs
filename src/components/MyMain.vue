@@ -4,6 +4,7 @@
     <MissionSection/>
     <FeatureSection/>
     <AskAnExpert/>
+    <EnvatoSection/>
     
 </section>
   
@@ -14,6 +15,7 @@ import AskAnExpert from './partial/AskAnExpert.vue'
 import JumbotronTop from './partial/JumbotronTop.vue'
 import FeatureSection from './partial/FeatureSection.vue'
 import MissionSection from './partial/MissionSection.vue'
+import EnvatoSection from './partial/EnvatoSection.vue'
 
 export default {
     name:'MyMain',
@@ -21,7 +23,8 @@ export default {
         AskAnExpert,
         JumbotronTop,
         FeatureSection,
-        MissionSection
+        MissionSection,
+        EnvatoSection
     }
 
 }
