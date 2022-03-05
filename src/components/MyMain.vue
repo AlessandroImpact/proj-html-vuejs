@@ -5,6 +5,7 @@
     <FeatureSection/>
     <AskAnExpert/>
     <EnvatoSection/>
+    <QualityCardSection/>
     <WorkTogether/>
     
 </section>
@@ -18,6 +19,7 @@ import FeatureSection from './partial/FeatureSection.vue'
 import MissionSection from './partial/MissionSection.vue'
 import EnvatoSection from './partial/EnvatoSection.vue'
 import WorkTogether from './partial/WorkTogether.vue'
+import QualityCardSection from './partial/QualityCardSection.vue'
 
 export default {
     name:'MyMain',
@@ -27,6 +29,7 @@ export default {
         FeatureSection,
         MissionSection,
         EnvatoSection,
+        QualityCardSection,
         WorkTogether
     }
 
