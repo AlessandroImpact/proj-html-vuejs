@@ -2,7 +2,7 @@
   
   <section class="text-center text-white py-5">
 
-          <h3 class="text-uppercase">let's work toghether!</h3>
+          <h3 class="text-uppercase">let's work together!</h3>
 
           <hr class="mx-auto my-5">
 
@@ -11,7 +11,7 @@
               and give our clients the highest quality advice possible
           </p>
 
-          <button class="btn my-btn text-white font-weight-bold ">MAKE ENQUIRY</button>
+          <button class="btn my-btn text-white font-weight-bold py-3 ">MAKE ENQUIRY</button>
 
       
 
