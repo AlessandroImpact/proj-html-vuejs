@@ -39,6 +39,8 @@ export default {
 }
 </script>
 
-<style>
+<style lang="scss" scoped>
 
+    @import './partial/style/general.scss';
+    
 </style>
