@@ -45,7 +45,7 @@ export default {
           title: "  All Rights Reserved  | ",
         },
         {
-          title: "  Powered by Wordpress  | ",
+          title: "  Powered by Wordpress   ",
         },
       ],
     };
