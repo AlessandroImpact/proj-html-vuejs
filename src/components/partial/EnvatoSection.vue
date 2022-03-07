@@ -38,6 +38,13 @@ section {
 
 }
 
+p {
+   font-style: italic;
+   font-size: 18px;
+   width: 80%;
+   margin: auto;
+}
+
 
 
 

@@ -20,7 +20,8 @@ export default {
 
   data() {
     
-      return{ items: [
+      return{ 
+          items: [
         {
           title: "Home",
         },

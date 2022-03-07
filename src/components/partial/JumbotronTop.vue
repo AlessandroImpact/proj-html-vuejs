@@ -18,7 +18,7 @@ export default {
 @import './style/general.scss';
 
 section {
-    height: 400px;
+    height: 550px;
     background-image: url("./images/video_law_home_preview.jpg");  
     background-size: cover;
     
